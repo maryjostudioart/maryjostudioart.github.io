@@ -1,0 +1,215 @@
+		body { 
+			margin: 0;
+			font-family: Arial;
+			color: #999;
+		}
+		a {
+			text-decoration: none;
+		}
+		img {
+			width: 100%;
+		}
+
+
+		#header {
+			position: relative;
+			background-color: #4a4642;
+			width: 100%;
+			height: 68px;
+		}
+		#header img {
+			width: auto;
+		}
+		#logoc {
+			position: absolute;
+        	top: 20px;
+        	left: 50%;
+        	transform: translate(-50%, 0);
+        }
+        #logol {
+        	position: fixed;
+        	display: none;
+        	top: 13px;
+        	left: 13px;
+        }
+        #logol img {
+        	height: 45px;
+        	width: 45px;
+        }
+
+        #links {
+        	width: 100%;
+        	display: flex;
+        	flex-direction: row;
+        	justify-content: center;
+  			align-items: center;
+
+        }
+        #links div {
+        	margin-top: 40px;
+        }
+        #links img {
+        	height: 14px;
+        	width: auto;
+        }
+        #wk {
+        	margin-right:40px;
+        }
+        #ct {
+        	margin-right: 160px;
+        }
+
+
+		#centered {
+			margin: -3px 0;
+			width: 100%;
+			display: flex;
+			justify-content: center;
+  			align-items: center;
+  			flex-direction: column;
+		}
+
+
+		#main {
+			width: 100%;
+			min-height: 85vw;
+			padding: 0;
+			margin: 0px 0;
+			background-image: url('images/p1.png'); /* Replace with your image path */
+            background-size: cover; /* Scales the image to cover the entire div */
+            background-position: center; /* Centers the image within the div */
+            background-repeat: no-repeat; /* Prevents the image from repeating */
+		}
+		#p1 {
+			width: 100%;
+			height: auto;
+		}
+		#p2 {
+			margin-top: 40%;
+			margin-left: 50%;
+			width: 45%;
+		}
+
+
+
+
+
+
+		#about {
+			display: flex;
+  			flex-direction: row;
+  			flex-wrap: wrap;
+  			justify-content: center;
+  			justify-items: top;
+			display: none;
+			width: 100%;
+			color: #4a4642;
+			padding-top: 100px;
+
+		}
+		#artist {
+			flex: 1;
+			max-width: 400px;
+			margin-right: 50px;
+			padding-top: 13px;
+		}
+		#artist img {
+			margin-bottom: 13px;
+		}
+		#statement {
+			flex: 1;
+			max-width: 325px;
+			font-size: 16px;
+		}
+		#about h1 {
+			font-family: "Times New Roman", Times, serif;
+			text-decoration: none;
+			margin-top: 0px;
+			font-weight: normal;
+			letter-spacing: 1px;
+			font-size: 49px;
+		}
+		#about h3 {
+			font-family: "Times New Roman", Times, serif;
+			text-decoration: none;
+			margin-top: 0px;
+			font-weight: normal;
+			letter-spacing: 1px;
+			font-size: 32px;
+		}
+
+
+
+
+
+
+		#work {
+			display: flex;
+  			flex-direction: row;
+  			flex-wrap: wrap;
+  			justify-content: center;
+			width: 100%;
+			margin: 34px 0;
+		}
+		#left {
+			flex: 1; /* Makes each column take up an equal share of available space */
+  			padding: 10px; /* Adds some spacing within the columns */
+  			box-sizing: border-box; /* Ensures padding is included in the element's total width */
+			max-width: 450px;
+		}
+		#right {
+			flex: 1; /* Makes each column take up an equal share of available space */
+  			padding: 10px; /* Adds some spacing within the columns */
+  			box-sizing: border-box; /* Ensures padding is included in the element's total width */
+  			max-width: 450px;
+		}
+		.w {
+			max-width: 450px;
+			margin:  0 23px 31px 23px; 
+		}
+
+
+		#contact {
+			display: none;
+			margin: 40px 0;
+  			flex-direction: row;
+  			flex-wrap: wrap;
+  			justify-content: center;
+  			align-items: center;
+			font-family: "Garamond";
+			font-size: 30px;
+			max-width: 500px;
+			padding: 20px;
+			max-width: 425px;
+			float: left;
+			margin: 40px 100px 0 29px;
+			font-size: 16px;
+		}
+		#contact a {
+			color: #888;
+		}
+		#contact img {
+			width: 200px;
+			max-width: 425px;
+			float: left;
+			margin: 40px 100px 0 29px;
+			font-size: 16px;
+		}
+		
+		#footer {
+			display: flex;
+  			flex-direction: row;
+  			flex-wrap: wrap;
+  			justify-content: center;
+			max-width: 500px;
+			margin: 50px;
+		}
+
+
+
+
+
+
+
+
+
