@@ -11,9 +11,9 @@
 		</div>
 
 		<div id="links">
-				<div id="wk"><a href="#"><img src="images/work.png"></a></div>
-				<div id="ct"><a href="#"><img src="images/contact.png"></a></div>
-				<div id="at"><a href="#"><img src="images/statement.png"></a></div>
+				<div class="wk"><a href="#"><img src="images/work.png"></a></div>
+				<div class="ct"><a href="#"><img src="images/contact.png"></a></div>
+				<div class="at"><a href="#"><img src="images/statement.png"></a></div>
 		</div>
 	</div>
 
@@ -36,27 +36,32 @@
 	<div id="about">
 		<div id="artist">
 			<img src = "images/artist.png"><br>
-			<p><i>Understanding the natural world through art is my jam. </i></p>
+			<p><i>Understanding the natural world through art is my jam. </i></p><br><br>
 			
-
 			<img src = "images/w80.jpg">
-			<div class="d">
-				<p>Mary Jo Franks<br><i>The Lake of Tupelo Honey</i><br>Medium: Oil on panel<br>Size: 12 x 16<br></p>
-			</div>
 		</div>
 		<div id="statement">
 			<!-- <h3><i>artist's statement</i></h3> -->
 			<h1>Mary Jo Franks</h1>
-			<p>
-			I'm a Greenville, South Carolina-based artist working primarily with oils and acrylics. </p>
+			<p><i>Greenville, South Carolina-based artist working primarily with oils and acrylics.</i> </p>
 			<p>
 			I've had a long circular journey back to painting. Most of my work is abstract, yet references nature using texture, line, and color to imply depth.  After a formal education in fine art, I came to designing landscapes for many years.  Each design began free of preconceptions and open to possibilities.  I wanted to create a whole outdoor experience by manipulating shape, color and form.  That is also how I begin each painting - no preconceptions.  I push and pull the medium to create spaces with color and light, texture and form.  I don't find peace when painting until I work through the process of how a particular work will achieve depth, clarity, and a resolution of form.  </p>
 			<p>
 			My circular journey also meandered through the influence of other artists and important gardens.  While initially inspired by the paintings and gardens of the impressionists, I later came to better appreciate how the interaction of interesting lines and shapes create an experience.  </p>
-			<br><br><h1>contact</h1>
+			<br><br><br><br><h1>contact</h1>
 			<div id="st">
-				<p>If you would like to purchase or commission a painting, or just learn more about my work, please e-mail me at <b><a href="mailto: maryjofranks@gmail.com">maryjofranks@gmail.com</a></b>.</p>
-			</div><br><br>
+				<p>If you would like to purchase or commission a painting, or just learn more about my work, please e-mail me: <br><b><a href="mailto: maryjofranks@gmail.com">maryjofranks@gmail.com</a></b>.</p>
+			</div>
+			<br><br><br><br>
+			<div class="wk"><a href="#">other works</a></div>
+			<br>
+			<div class="d">
+				<p><i>The Lake of Tupelo Honey</i>
+					<br>Medium: Oil on panel
+					<br>Size: 12 x 16
+					<br>Mary Jo Franks</i></p>
+			</div>
+			<br><br><br><br>
 		</div>
 	</div>
 
@@ -626,21 +631,22 @@
 		$("#contact").hide();
 		$("#main").css('display', 'inline-block');
 	});
-	$("#at a").click(function(event) {
+	$(".at a").click(function(event) {
 		event.preventDefault();
 		$("#about").css('display', 'flex');
 		$("#work").hide();
 		$("#contact").hide();
 		$("#main").hide();
 	});
-	$("#wk a").click(function(event) {
+	$(".wk a").click(function(event) {
 		event.preventDefault();
 		$("#about").hide();
 		$("#work").css('display', 'flex');
 		$("#contact").hide();
 		$("#main").hide();
+		$("#header")[0].scrollIntoView({ behavior: 'smooth' });
 	});
-	$("#ct a").click(function(event) {
+	$(".ct a").click(function(event) {
 		event.preventDefault();
 		$("#work").hide();
 		$("#main").hide();

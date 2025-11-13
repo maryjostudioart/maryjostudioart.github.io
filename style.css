@@ -52,10 +52,10 @@
         	height: 14px;
         	width: auto;
         }
-        #wk {
-        	margin-right:40px;
+        .wk {
+        	margin-right:50px;
         }
-        #ct {
+        .ct {
         	margin-right: 160px;
         }
 
@@ -114,7 +114,7 @@
 			padding-top: 13px;
 		}
 		#artist img {
-			margin-bottom: 13px;
+			margin-bottom: 5px;
 		}
 		#statement {
 			flex: 1;
@@ -128,6 +128,7 @@
 			font-weight: normal;
 			letter-spacing: 1px;
 			font-size: 49px;
+			margin-bottom: 5px;
 		}
 		#about h3 {
 			font-family: "Times New Roman", Times, serif;
@@ -137,8 +138,28 @@
 			letter-spacing: 1px;
 			font-size: 32px;
 		}
-
-
+		#contact {
+			display: none;
+			margin: 40px 0;
+  			flex-direction: row;
+  			flex-wrap: wrap;
+  			justify-content: center;
+  			align-items: center;
+			font-family: "Garamond";
+			font-size: 30px;
+			max-width: 510px;
+			padding: 20px;
+		}
+		#contact a {
+			color: #888;
+		}
+		#contact img {
+			width: 200px;
+			max-width: 425px;
+			float: left;
+			margin: 40px 100px 0 29px;
+			font-size: 16px;
+		}
 
 
 
@@ -150,6 +171,7 @@
   			justify-content: center;
 			width: 100%;
 			margin: 34px 0;
+			color: #4a4642;
 		}
 		#left {
 			flex: 1; /* Makes each column take up an equal share of available space */
@@ -169,37 +191,11 @@
 		}
 
 
-		#contact {
-			display: none;
-			margin: 40px 0;
-  			flex-direction: row;
-  			flex-wrap: wrap;
-  			justify-content: center;
-  			align-items: center;
-			font-family: "Garamond";
-			font-size: 30px;
-			max-width: 500px;
-			padding: 20px;
-			max-width: 425px;
-			float: left;
-			margin: 40px 100px 0 29px;
-			font-size: 16px;
-		}
-		#contact a {
-			color: #888;
-		}
-		#contact img {
-			width: 200px;
-			max-width: 425px;
-			float: left;
-			margin: 40px 100px 0 29px;
-			font-size: 16px;
-		}
+
 		
 		#footer {
 			display: flex;
   			flex-direction: row;
-  			flex-wrap: wrap;
   			justify-content: center;
 			max-width: 500px;
 			margin: 50px;
