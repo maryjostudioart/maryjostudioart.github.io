@@ -173,6 +173,9 @@
 			margin: 34px 0;
 			color: #4a4642;
 		}
+		#work h1 {
+			padding-left: 17px;
+		}
 		#left {
 			flex: 1; /* Makes each column take up an equal share of available space */
   			padding: 10px; /* Adds some spacing within the columns */
