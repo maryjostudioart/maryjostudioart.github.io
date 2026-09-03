@@ -1,0 +1,780 @@
+{
+	"works": [
+	    {
+	      "image_url": "w73.webp",
+	      "title": "Bok Choy Me This",
+	      "medium": "Oil on canvas",
+	      "size": "8 x 10",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w87.webp",
+	      "title": "Golden Seed Fields",
+	      "medium": "Oil on panel",
+	      "size": "12 x 18",
+	      "price": "$385.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w75.webp",
+	      "title": "Red Posies",
+	      "medium": "Oil on canvas",
+	      "size": "6 x 6",
+	      "price": "$85.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w77.webp",
+	      "title": "Mixed Up",
+	      "medium": "Oil on canvas",
+	      "size": "6 x 6",
+	      "price": "$85.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w79.webp",
+	      "title": "Dead Lake Alive",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$185.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w89.webp",
+	      "title": "Morning Swim",
+	      "medium": "Oil on canvas",
+	      "size": "30 x 40",
+	      "price": "$735.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w81.webp",
+	      "title": "The Shore",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 20",
+	      "price": "$195.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w83.webp",
+	      "title": "Jocassee Hills",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w85.webp",
+	      "title": "All the Feels",
+	      "medium": "Oil on canvas",
+	      "size": "30 x 40",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w51.webp",
+	      "title": "Rufina",
+	      "medium": "Oil on canvas",
+	      "size": "36 x 53.5",
+	      "price": "$990.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w68.webp",
+	      "title": "Jocassee Sunset",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 10",
+	      "price": "$180.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w67.webp",
+	      "title": "Fall Marsh 2",
+	      "medium": "Oil on canvas",
+	      "size": "5 x 5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w66.webp",
+	      "title": "Fall Marsh 1",
+	      "medium": "Oil on panel",
+	      "size": "8 x 6.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w65.webp",
+	      "title": "Marsh Parish",
+	      "medium": "Oil on canvas",
+	      "size": "24 x 24",
+	      "price": "$430.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w62.webp",
+	      "title": "Say What? Yellow 1",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w63.webp",
+	      "title": "Say What? Yellow 2",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w64.webp",
+	      "title": "Say What? Yellow 3",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "$50.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w69.webp",
+	      "title": "Say What? Red 1",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w70.webp",
+	      "title": "Say What? Red 2",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w71.webp",
+	      "title": "Say What? Red 3",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "$50.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w61.webp",
+	      "title": "Ginkgo Deconstructed",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w59.webp",
+	      "title": "Afternoon Walk in Falls Park",
+	      "medium": "Oil on canvas",
+	      "size": "18 x 23.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w57.webp",
+	      "title": "Ginkgo",
+	      "medium": "Oil on canvas",
+	      "size": "19 x 23.25",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w55.webp",
+	      "title": "Jocassee October",
+	      "medium": "Oil on panel",
+	      "size": "10 x 10",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w53.webp",
+	      "title": "Siena",
+	      "medium": "Oil on canvas",
+	      "size": "10.75 x 38",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+
+	    {
+	      "image_url": "w48.webp",
+	      "title": "Play Ball",
+	      "medium": "Oil on canvas",
+	      "size": "29.5 x 44",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w2.webp",
+	      "title": "Bird Tree",
+	      "medium": "Oil on canvas",
+	      "size": "36 x 48",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w6.webp",
+	      "title": "Monotone",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w7.webp",
+	      "title": "Helmut",
+	      "medium": "Oil on canvas",
+	      "size": "18 x 24",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w9.webp",
+	      "title": "Reflection",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w10.webp",
+	      "title": "Molly Ringwald is Complicated.",
+	      "medium": "Acrylic on canvas",
+	      "size": "8 x 8",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w1.webp",
+	      "title": "San Juan",
+	      "medium": "Acrylic on canvas",
+	      "size": "28 x 28",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 1
+	    },
+	    {
+	      "image_url": "w11.webp",
+	      "title": "Appalachian Aerial",
+	      "medium": "Oil on board",
+	      "size": "31 x 38",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w12.webp",
+	      "title": "Crash",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w13.webp",
+	      "title": "Devil's Drip",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$185.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w14.webp",
+	      "title": "Fall Study",
+	      "medium": "Oil on canvas",
+	      "size": "24 x 36",
+	      "price": "$785.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w15.webp",
+	      "title": "Feeling Wassily",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w16.webp",
+	      "title": "Jocassee Winter",
+	      "medium": "Oil on canvas",
+	      "size": "20 x 16",
+	      "price": "$575.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w17.webp",
+	      "title": "July Dance",
+	      "medium": "Oil on canvas",
+	      "size": "15.5 x 15.5",
+	      "price": "$360.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w19.webp",
+	      "title": "Machine Love 2",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 10",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w80.webp",
+	      "title": "The Lake of Tupelo Honey",
+	      "medium": "Oil on panel",
+	      "size": "12 x 16",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 1
+	    },
+	    {
+	      "image_url": "w72.webp",
+	      "title": "That Happy Feeling",
+	      "medium": "Oil on canvas",
+	      "size": "9.5 x 9.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w88.webp",
+	      "title": "I See You, There",
+	      "medium": "Oil on panel with mirrors and steel frames",
+	      "size": "41.25 x 49",
+	      "price": "$1160.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w74.webp",
+	      "title": "Peachy",
+	      "medium": "Oil on canvas",
+	      "size": "8 x 8",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w76.webp",
+	      "title": "Pink Posies",
+	      "medium": "Oil on canvas",
+	      "size": "6 x 6",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w78.webp",
+	      "title": "Blush Posies",
+	      "medium": "Oil on canvas",
+	      "size": "6 x 6",
+	      "price": "$85.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+
+	    {
+	      "image_url": "w82.webp",
+	      "title": "Orderly Trees",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 24",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w84.webp",
+	      "title": "Marsh at Edisto",
+	      "medium": "Oil on panel",
+	      "size": "9.5 x 9.5",
+	      "price": "$185.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w86.webp",
+	      "title": "Waters Near Wewahitchka",
+	      "medium": "Oil on canvas",
+	      "size": "30 x 24",
+	      "price": "$485.00",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w58.webp",
+	      "title": "Postcard from Aunt Eva",
+	      "medium": "Oil on panel",
+	      "size": "15 x 30",
+	      "price": "$525.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w56.webp",
+	      "title": "Lowcountry Fence Row",
+	      "medium": "Oil on canvas",
+	      "size": "9 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w54.webp",
+	      "title": "Farmer's Market Haul 1",
+	      "medium": "Oil on canvas",
+	      "size": "11 x 11",
+	      "price": "$180.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w24.webp",
+	      "title": "April Dance",
+	      "medium": "Oil on canvas",
+	      "size": "18 x 18",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w25.webp",
+	      "title": "Summer Study",
+	      "medium": "Oil on panel",
+	      "size": "19 x 27",
+	      "price": "$652.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w26.webp",
+	      "title": "Landscape Vertigo",
+	      "medium": "Oil on panel",
+	      "size": "23.5 x 25",
+	      "price": "$635.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w28.webp",
+	      "title": "Edisto",
+	      "medium": "Oil on canvas",
+	      "size": "9 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w29.webp",
+	      "title": "Garden Afternoon",
+	      "medium": "Oil on panel",
+	      "size": "12 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w30.webp",
+	      "title": "Sullivan's Island",
+	      "medium": "Oil on canvas",
+	      "size": "4 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w31.webp",
+	      "title": "Fall at GC Library",
+	      "medium": "Oil on canvas",
+	      "size": "30 x 24",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w32.webp",
+	      "title": "Division",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$250.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w33.webp",
+	      "title": "Splash",
+	      "medium": "Oil on canvas",
+	      "size": "8 x 8",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w34.webp",
+	      "title": "Arteries",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 10",
+	      "price": "$175.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w35.webp",
+	      "title": "Overpass",
+	      "medium": "Oil on canvas",
+	      "size": "36 x 36",
+	      "price": "$598.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w36.webp",
+	      "title": "Arkansas Rear View",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$120.00",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w37.webp",
+	      "title": "Grid Space",
+	      "medium": "Oil on canvas",
+	      "size": "24 x 24",
+	      "price": "$560.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w38.webp",
+	      "title": "Florida Watershed",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$200.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w39.webp",
+	      "title": "Spot On",
+	      "medium": "Oil on canvas",
+	      "size": "16 x 16",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w40.webp",
+	      "title": "Toro",
+	      "medium": "Oil on canvas",
+	      "size": "18 x 24",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w41.webp",
+	      "title": "Look Out",
+	      "medium": "Oil on canvas",
+	      "size": "22 x 28",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w42.webp",
+	      "title": "Mississippi Delta",
+	      "medium": "Oil on canvas",
+	      "size": "29.5 x 29.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w43.webp",
+	      "title": "Data Point",
+	      "medium": "Oil on board",
+	      "size": "12 x 12",
+	      "price": "$130.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w44.webp",
+	      "title": "Data Point 2",
+	      "medium": "Oil on board",
+	      "size": "12 x 12",
+	      "price": "$130.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w45.webp",
+	      "title": "Party Line",
+	      "medium": "Oil on canvas",
+	      "size": "18 x 18",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w46.webp",
+	      "title": "Tennessee Morning",
+	      "medium": "Oil on canvas",
+	      "size": "14 x 16",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w47.webp",
+	      "title": "Horizon",
+	      "medium": "Acrylic on panel",
+	      "size": "18 x 18",
+	      "price": "$475.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w93.webp",
+	      "title": "Cloud Break",
+	      "medium": "Oil on canvas",
+	      "size": "6.325 x 7.625",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w50.webp",
+	      "title": "Jocassee Fall",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 10",
+	      "price": "$130.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w20.webp",
+	      "title": "October Dance",
+	      "medium": "Oil on canvas",
+	      "size": "16.5 x 22.5",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w21.webp",
+	      "title": "Saluda",
+	      "medium": "Oil on canvas",
+	      "size": "9 x 12",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w22.webp",
+	      "title": "Patriot's Point",
+	      "medium": "Oil on panel",
+	      "size": "19 x 29.5",
+	      "price": "$682.00",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w23.webp",
+	      "title": "Formation 1",
+	      "medium": "Oil on canvas",
+	      "size": "16 x 16",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w94.webp",
+	      "title": "Sorrento",
+	      "medium": "Oil on panel",
+	      "size": "5 x 8",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w95.webp",
+	      "title": "Afternoon Drive",
+	      "medium": "Oil on panel",
+	      "size": "8 x 10",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w90.webp",
+	      "title": "Spirit Animal",
+	      "medium": "Oil on canvas",
+	      "size": "22 x 26",
+	      "price": "$750.00",
+	      "tags": [2],
+	      "featured": 1
+	    },
+	    {
+	      "image_url": "w91.webp",
+	      "title": "Shallow Stream",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 30",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w92.webp",
+	      "title": "Blue Ridge Escapement",
+	      "medium": "Oil on canvas",
+	      "size": "24 x 30",
+	      "price": "<strong>(Sold)</strong>",
+	      "tags": [0],
+	      "featured": 0
+	    }
+	]
+}

@@ -1,0 +1,413 @@
+/*:root {
+  --lb-overlay-bg: black;
+  --lb-overlay-opacity: 0.8;
+  --lb-container-bg: white;
+  --lb-image-border-width: 4px;
+  --lb-image-border-color: white;
+  --lb-border-radius: 3px;
+  --lb-text-color: #ccc;
+  --lb-caption-link-color: #4ae;
+  --lb-number-color: #999;
+  --lb-nav-transition-speed: 0.6s;
+  --lb-close-transition-speed: 0.2s;
+}
+
+
+*/
+
+html, body { 
+	width: 100%;
+  margin: 0px;
+  padding: 0px;
+	font-family: Arial;
+	color: #999;
+}
+img {
+	width: 100%;
+}
+
+
+#header {
+	position: relative;
+	background-image: linear-gradient(to top right, #4a4642, 85%, #26150C);
+	width: 100%;
+	height: 68px;
+}
+#header img {
+	width: auto;
+}
+#logoc {
+	position: absolute;
+	top: 20px;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+#logol {
+	position: fixed;
+	top: 43px;
+	left: 13px;
+	border-color: #333;
+	border-radius: 23px 23px 3px 23px;
+	padding: 3px;
+}
+#logol img {
+	height: 42px;
+	width: 42px;
+}
+#workmenu {
+	display: none;
+	margin-left: 10px;
+	border-color: #333;
+	border-radius: 23px 23px 3px 23px;
+}
+
+#links {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+}
+#links div {
+	margin-top: 37px;
+}
+#links img {
+	height: 14px;
+	width: auto;
+}
+
+#links div a {
+	font-family: 'League Spartan';
+  font-size: 14.5px;
+  font-style: normal;
+  font-weight: 500;
+  color: #ffffffe;
+}
+
+.wk {
+	margin-right:50px;
+}
+.ct {
+	margin-right: 160px;
+}
+
+
+
+#centered {
+	display: flex;
+	justify-content: center;
+		align-items: center;
+		flex-direction: column;
+}
+
+
+#main {
+	width: 100%;
+	min-height: 85vw;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background-image: url('assets/images/home-bg.webp'); /* Replace with your image path */
+  background-size: cover; /* Scales the image to cover the entire div */
+  background-position: center; /* Centers the image within the div */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+#p1 {
+	width: 100%;
+	height: auto;
+}
+#p2 {
+/*	width: 45%;
+	margin-top: 40%;
+	margin-left: 50%;*/
+	position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 45%;
+    /* Use transform for performant animation */
+	
+}
+
+
+
+#about {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	justify-items: top;
+	display: none;
+	width: 100%;
+	color: #4a4642;
+	padding-top: 100px;
+
+}
+#artist {
+	flex: 1;
+	max-width: 400px;
+	margin-right: 50px;
+	padding-top: 13px;
+}
+#artist img {
+	margin-bottom: 5px;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+#statement {
+	flex: 1;
+	max-width: 325px;
+	font-size: 16px;
+}
+#about h1 {
+	font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  color: #8b7367;
+	text-decoration: none;
+	margin-top: 0px;
+	letter-spacing: 1px;
+	font-size: 42px;
+	margin-bottom: 5px;
+}
+#about h3 {
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: none;
+	margin-top: 0px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	font-size: 32px;
+}
+
+#st a {
+	color: #125fae;
+}
+
+
+
+
+#work {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	color: #4a4642;
+	padding-top: 100px;
+}
+
+
+#blurb {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	height: 120px;
+	color: #4a4642;
+	margin: 10px auto;
+}
+#descrit {
+	padding: 10px; /* Adds some spacing within the columns */
+	box-sizing: border-box; /* Ensures padding is included in the element's total width */
+	max-height: 100px;
+}
+#descrit h1 {
+	margin: 0 auto 7px;
+}
+#descrit2 {
+	padding: 10px; /* Adds some spacing within the columns */
+	box-sizing: border-box; /* Ensures padding is included in the element's total width */
+	max-height: 100px;
+}
+
+
+
+#categories {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	margin: 34px 0;
+	color: #4a4642;
+}
+#categories h1 {
+	color: #125fae;
+}
+#category {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	height: 500px;
+	margin: 34px auto;
+	color: #4a4642;
+}
+#nav {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	font-size: 24px;
+	margin-bottom: 28px;
+}
+#nav div {
+	flex-basis: 100%;
+	flex: 1; /* Makes each column take up an equal share of available space */
+	padding: 10px; /* Adds some spacing within the columns */
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+
+#a a {
+	color: #125fae;
+}
+#l a {
+	color: #125fae;
+}
+#w a {
+	color: #125fae;
+}
+#m a {
+	color: #125fae;
+}
+
+.colw {
+	flex-basis: 100%;
+	flex: 1; /* Makes each column take up an equal share of available space */
+	padding: 3px; /* Adds some spacing within the columns */
+	box-sizing: border-box; /* Ensures padding is included in the element's total width */
+	text-align: center;
+}
+.colw img {
+	height: 500px;
+	width: 400px;
+	object-fit: cover;
+	transition: filter 0.3s ease; /* Smooth transition */
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+.colw img:hover {
+  filter: brightness(70%); /* Darkens the image to 70% of its original brightness */
+}
+
+.col {
+	flex-basis: 100%;
+	flex: 1; /* Makes each column take up an equal share of available space */
+	padding: 10px; /* Adds some spacing within the columns */
+	box-sizing: border-box; /* Ensures padding is included in the element's total width */
+	max-width: 420px;
+	min-width: 350px;
+}
+.w {
+	max-width: 450px;
+	margin:  0 23px 31px 23px;
+}
+.w img {
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+.d h3 {
+	font-weight: normal;
+	size: 15px;
+	margin: 21px 0 7px 0;
+}
+
+
+
+
+#title h1 {
+	font-family: 'Montserrat';
+  font-size: 64.5px;
+  font-style: normal;
+  font-weight: 200;
+  color: #8b7367;
+  text-align: center;
+
+}
+
+
+#picandstatement {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	width: 100%;
+	font-family: 'Arial';
+	font-size: 13px;
+	margin-bottom: 28px;
+	align-items: start;
+
+
+}
+#picandstatement div {
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+
+#pic {
+	padding-top: 20px;
+}
+#pic img {
+	width: 300px;
+	padding-top: 20px;
+}
+#catstatement {
+	flex-grow: 0;
+	flex-shrink: 0;
+	width: 300px;
+}
+#smalllinks {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	white-space:nowrap;
+	width: 100%;
+	font-size: 14px;
+	margin-bottom: 28px;
+	gap: 6px;
+}
+
+#bottomart {
+	width: 100%;
+	background-image: url('assets/images/imagesfull/w40.webp'); /* Replace with your image path */
+  background-size: cover; /* Scales the image to cover the entire div */
+  background-position: center; /* Centers the image within the div */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+
+
+
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 50px;
+}
+
+
+
+
+a {
+	text-decoration: none;
+}
+
+
+.lb-data .lb-details {
+    width: 100% !important;
+    float: none;
+}
+
+.lb-outerContainer {
+  background-color: transparent !important;
+  padding: 0 !important;
+  --lb-image-border-width: 0px;
+}
+
+.lb-dataContainer {
+  margin: 0 auto;
+}
