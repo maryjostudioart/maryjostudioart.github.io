@@ -86,7 +86,7 @@
 	      "title": "Rufina",
 	      "medium": "Oil on canvas",
 	      "size": "36 x 53.5",
-	      "price": "$990.00",
+	      "price": "$800.00",
 	      "tags": [1],
 	      "featured": 0
 	    },
@@ -768,12 +768,165 @@
 	      "featured": 0
 	    },
 	    {
-	      "image_url": "w92.webp",
+	      "image_url": "w95.webp",
 	      "title": "Blue Ridge Escarpement",
 	      "medium": "Oil on canvas",
 	      "size": "24 x 30",
 	      "price": "<strong>(Sold)</strong>",
 	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w96.webp",
+	      "title": "Solve for Fall",
+	      "medium": "Mixed media on panel",
+	      "size": "12 x 24",
+	      "price": "$220.00",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w97.webp",
+	      "title": "Heartland Fall Aerial",
+	      "medium": "Oil on canvas",
+	      "size": "36 x 48",
+	      "price": "$685",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w98.webp",
+	      "title": "Second Day in Molokai",
+	      "medium": "Oil on canvas",
+	      "size": "22\" x 27.5",
+	      "price": "$525",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w99.webp",
+	      "title": "Aspen Formula",
+	      "medium": "Mixed media on panel",
+	      "size": "10 x 20",
+	      "price": "$195",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w100.webp",
+	      "title": "Citrus Sip",
+	      "medium": "Oil on panel",
+	      "size": "7 x 7",
+	      "price": "$90",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w101.webp",
+	      "title": "Kentucky Flight",
+	      "medium": "Oil on panel",
+	      "size": "7 x 7",
+	      "price": "$90",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w102.webp",
+	      "title": "Nightcap",
+	      "medium": "Oil on panel",
+	      "size": "7 x 7",
+	      "price": "$90",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w103.webp",
+	      "title": "Sunlight Sets it Alight",
+	      "medium": "Oil on panel",
+	      "size": "6 x 6",
+	      "price": "$60",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w104.webp",
+	      "title": "Church Window",
+	      "medium": "Oil on canvas",
+	      "size": "12 x 12",
+	      "price": "$195",
+	      "tags": [0],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w105.webp",
+	      "title": "Sing it Loud",
+	      "medium": "Oil on panel",
+	      "size": "8 x 8",
+	      "price": "$80",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w106.webp",
+	      "title": "Music Room",
+	      "medium": "Oil on panel",
+	      "size": "10 x 20",
+	      "price": "$220",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w107.webp",
+	      "title": "Marsh Math",
+	      "medium": "Mixed media on panel",
+	      "size": "8 x 8",
+	      "price": "$90",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w108.webp",
+	      "title": "Under the Bridge",
+	      "medium": "Oil on canvas",
+	      "size": "10 x 12",
+	      "price": "$95",
+	      "tags": [1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w109.webp",
+	      "title": "Relaxed Tulips",
+	      "medium": "Oil on panel",
+	      "size": "9 x 12",
+	      "price": "$125",
+	      "tags": [2],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w110.webp",
+	      "title": "Tiny Pastoral",
+	      "medium": "Oil on panel",
+	      "size": "5 x 7",
+	      "price": "$50",
+	      "tags": [0,1],
+	      "featured": 0
+	    },
+	    {
+	      "image_url": "w111.webp",
+	      "title": "Let's Go Home",
+	      "medium": "Oil on canvas",
+	      "size": "36 x 36",
+	      "price": "$590",
+	      "tags": [2],
+	      "featured": 1
+	    },
+	    {
+	      "image_url": "w112.webp",
+	      "title": "Phlox Gone Wild",
+	      "medium": "Oil on panel",
+	      "size": "8 x 10",
+	      "price": "$90",
+	      "tags": [0,1],
 	      "featured": 0
 	    }
 	]
