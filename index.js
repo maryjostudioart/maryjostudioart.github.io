@@ -111,7 +111,7 @@ $(function() {
 
 
 // main logo
-$("#logoc a").click(function(event) {
+$("#logocenter a").click(function(event) {
 	event.preventDefault();
 	$("#about").hide();
 	$("#work").show();
@@ -119,7 +119,7 @@ $("#logoc a").click(function(event) {
 	$("#main").css('display', 'inline-block');
 });
 // small logo on left of site
-$("#logoc a").click(function(event) {
+$("#logocenter a").click(function(event) {
 	event.preventDefault();
 	$("#header")[0].scrollIntoView({ behavior: 'smooth' });
 });

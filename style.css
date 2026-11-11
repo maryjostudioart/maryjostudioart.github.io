@@ -36,13 +36,13 @@ img {
 #header img {
 	width: auto;
 }
-#logoc {
+#logocenter {
 	position: absolute;
 	top: 20px;
 	left: 50%;
 	transform: translate(-50%, 0);
 }
-#logol {
+#logoleft {
 	position: fixed;
 	top: 43px;
 	left: 13px;
@@ -50,7 +50,7 @@ img {
 	border-radius: 23px 23px 3px 23px;
 	padding: 3px;
 }
-#logol img {
+#logoleft img {
 	height: 42px;
 	width: 42px;
 }
@@ -239,6 +239,7 @@ img {
 	flex-wrap: wrap;
 	justify-content: center;
 	width: 100%;
+	min-width: 550px;
 	height: 500px;
 	margin: 34px auto;
 	color: #4a4642;
@@ -339,8 +340,6 @@ img {
 	font-size: 13px;
 	margin-bottom: 28px;
 	align-items: start;
-
-
 }
 #picandstatement div {
 	flex-grow: 0;
@@ -357,7 +356,8 @@ img {
 #catstatement {
 	flex-grow: 0;
 	flex-shrink: 0;
-	width: 300px;
+	min-width: 250px;
+	max-width: 350px;
 }
 #smalllinks {
 	display: flex;
