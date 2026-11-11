@@ -214,7 +214,7 @@ $(".l2 a").click(function(event) {
 
 	$("#title").html("<h1>whimsy</h1>");
 	$("#pic").html("<img src='assets/images/work-whimsy.webp'>");
-	$("#catstatement").html("<p>Art is a reflection of life.</p><p>Occasionally embracing the absurd, joyful and unexpected as art as well as in life fights the inner cynic.</p>");
+	$("#catstatement").html("<p>Art is a reflection of life.</p><p>Occasionally embracing the absurd, joyful and unexpected in art as well as in life fights the inner cynic.</p>");
 	$("#nav div a").css("font-weight", "normal");
 	$("#w a").css("font-weight", "bold");
 });
