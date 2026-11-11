@@ -196,7 +196,7 @@ $(".l1 a").click(function(event) {
 
 	$("#title").html("<h1>landscape</h1>");
 	$("#pic").html("<img src='assets/images/work-landscape.webp'>");
-	$("#catstatement").html("<p>Most of my painted landscapes are riffs on--interpretations of places I’ve visited, or gardens I’ve made for myself or others. Abstracted landscapes help me visually narrate how and forms colors in the natural world embrace and nurture me.</p>");
+	$("#catstatement").html("<p>Most of my painted landscapes are riffs on or interpretations of places I’ve visited, or gardens I’ve made for myself or others. Abstracted landscapes help me visually narrate how forms and colors in the natural world embrace and nurture me.</p>");
 	$("#nav div a").css("font-weight", "normal");
 	$("#l a").css("font-weight", "bold");
 
